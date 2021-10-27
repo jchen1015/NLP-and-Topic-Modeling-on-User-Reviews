@@ -51,3 +51,16 @@ Split words into 10 topics.
 |2    |56     |
 |8    |54     |
 |6    |30     |
+
+|      |Word 0|	Word 1|	Word 2|	Word 3|	Word 4|	Word 5|	Word 6|	Word 7|	Word 8|	Word 9|	Word 10|	Word 11|	Word 12|	Word 13|	Word 14|
+|------|------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|---------|---------|---------|---------|
+|Topic 0|	beauti|	broke|	batteri|	week|	love|	arriv|	color|	band|	year|	water|	clock|	resist|	fell|	day|	anoth|
+Topic 1	nice	awesom	thank	amaz	super	fast	price	ship	simpl	set	love	look	great	instruct	hard
+Topic 2	perfect	wife	gift	love	worth	recommend	happi	quick	buy	alreadi	movement	gave	look	high	nice
+Topic 3	good	love	like	qualiti	realli	pretti	price	better	person	look	pictur	beauti	time	month	came
+Topic 4	look	band	face	like	great	pictur	nice	watch	cheap	leather	feel	make	time	design	size
+Topic 5	great	excel	work	product	expect	price	look	seller	exact	item	everyth	perfect	fit	valu	good
+Topic 6	strap	compliment	invicta	lot	buy	dress	easili	everi	style	think	love	sever	short	anoth	watch
+Topic 7	husband	love	deliveri	pleas	big	stylish	heavi	receiv	got	daughter	look	piec	surpris	beauti	time
+Topic 8	absolut	wear	cool	bought	want	love	bad	fine	money	time	work	reason	swim	tell	beauti
+Topic 9	use	band	look	work	comfort	day	great	time	far	easi	good	light	function	deal	like
