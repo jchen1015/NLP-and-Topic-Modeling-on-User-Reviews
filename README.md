@@ -63,4 +63,4 @@ Split words into 10 topics.
 |Topic 6|	strap|	compliment|	invicta|	lot|	buy|	dress|	easili|	everi|	style|	think|	love|	sever|	short|	anoth|	watch|
 |Topic 7|	husband|	love|	deliveri|	pleas|	big|	stylish|	heavi|	receiv|	got|	daughter|	look|	piec|	surpris|	beauti|	time|
 |Topic 8|	absolut|	wear|	cool|	bought|	want|	love|	bad|	fine|	money|	time|	work|	reason|	swim|	tell|	beauti|
-|Topic 9|	use	band|	look|	work|	comfort|	day|	great|	time|	far|	easi|	good|	light|	function|	deal|	like|
+|Topic 9|	use|	band|	look|	work|	comfort|	day|	great|	time|	far|	easi|	good|	light|	function|	deal|	like|
