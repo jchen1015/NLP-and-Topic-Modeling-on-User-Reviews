@@ -9,16 +9,16 @@ This an unsupervise learning project to clustered customer reviews into groups a
 
 ## K-means Clustering
 Number of clusters is 10. 
-- Cluster 0: like, perfect, expect, qualiti, want, awesom
-- Cluster 1: work, great, stop, use, good, batteri
-- Cluster 2: great, look, price, product, love deal
-- Cluster 3: excel, product, price, fast, good, qualiti
-- Cluster 4: nice, price, look, love, money, like
-- Cluster 5: look, nice, like, great, good, realli
-- Cluster 6: good, product, price, qualiti, love, time
-- Cluster 7: time, band, use, day, easi, read
-- Cluster 8: beauti, love, great, wear, time, heavi
-- Cluster 9: love, gift, wife, absolute, color, bought
+- Cluster 0: band,look,leather,wrist,good,nice
+- Cluster 1: great,look,price,comfort,product,work
+- Cluster 2: work,look,time,use,day,good
+- Cluster 3: good,product,price,love,big,qualiti
+- Cluster 4: excel,product,price,fast,qualiti,good
+- Cluster 5: like,look,work,face,nice,big
+- Cluster 6: nice,price,look,realli,good,love
+- Cluster 7: perfect,beauti,fit,wear,great,realli
+- Cluster 8: love,wife,husband,look,color,gift
+- Cluster 9: expect,clock,everyth,thank,nice,time
 
 |     |Cluster|
 |-----|-------|
@@ -32,3 +32,8 @@ Number of clusters is 10.
 |6    |55     |
 |4    |30     |
 |9    |24     |
+
+Since number of review text between clusters is very different, I decide to move on to Latent Dirichlet Allocation. 
+
+## Topic Modeling -- Latent Dirichlet Allocation
+
