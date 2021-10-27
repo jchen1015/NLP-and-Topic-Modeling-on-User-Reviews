@@ -37,3 +37,17 @@ Since number of review text between clusters is very different, I decide to move
 
 ## Topic Modeling -- Latent Dirichlet Allocation
 
+Split words into 10 topics.
+
+|     |Topic  |
+|-----|-------|
+|4    |209    |
+|9    |182    |
+|5    |112    |
+|3    |105    |
+|0    |101    |
+|1    |86     |
+|7    |65     |
+|2    |56     |
+|8    |54     |
+|6    |30     |
