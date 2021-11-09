@@ -44,13 +44,13 @@ Split words into 7 topics.
 |2    |1669   |
 
 
-|      |Word 0|	Word 1|	Word 2|	Word 3|	Word 4|	Word 5|	Word 6|	Word 7|	Word 8|	Word 9|	Word 10|	Word 11|	Word 12|	Word 13|	Word 14|
+|      |Word 0 |	Word 1|	Word 2|	Word 3|	Word 4|	Word 5|	Word 6|	Word 7|	Word 8|	Word 9|	Word 10|	Word 11|	Word 12|	Word 13|	Word 14|
 |------|------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|---------|---------|---------|---------|
-|Topic 0|	nice	|price	|great	|look	|good	|qualiti	|product	|recommend	|buy	|like	|best	|high	|valu	|money	|love|
-|Topic 1|	good	|like	|big	|light	|look	|time	|read	|littl	|face	|cute	|easi	|wrist	|realli	|clock	|pretti|
-|Topic 2|	excel	|easi	|use	|casio	|time	|product	|color	|timex	|simpl	|display	|function	|great	|like	|read	|band|
-|Topic 3|	work	|batteri	|time	|band	|day	|return	|month	|year	|use	|broke	|replac	|week	|look	|stop	|set|
-|Topic 4|	band	|look	|strap	|wrist	|wear	|leather	|like	|ok	|small	|face	|great	|nice	|fit	|comfort	|love|
-|Topic 5|	look	|time	|watch	|like	|compliment	|wear	|hand	|great	|mani	|love	|face	|dial	|band	|day	|second|
-|Topic 6|	love	|great	|gift	|beauti	|bought	|thank	|husband	|perfect	|wife	|christma	|son	|happi	|look	|awesom	|friend|
+|Topic 0 |	nice	|price	|great	|look	|good	|qualiti	|product	|recommend	|buy	|like	|best	|high	|valu	|money	|love|
+|Topic 1 |	good	|like	|big	|light	|look	|time	|read	|littl	|face	|cute	|easi	|wrist	|realli	|clock	|pretti|
+|Topic 2 |	excel	|easi	|use	|casio	|time	|product	|color	|timex	|simpl	|display	|function	|great	|like	|read	|band|
+|Topic 3 |	work	|batteri	|time	|band	|day	|return	|month	|year	|use	|broke	|replac	|week	|look	|stop	|set|
+|Topic 4 |	band	|look	|strap	|wrist	|wear	|leather	|like	|ok	|small	|face	|great	|nice	|fit	|comfort	|love|
+|Topic 5 |	look	|time	|watch	|like	|compliment	|wear	|hand	|great	|mani	|love	|face	|dial	|band	|day	|second|
+|Topic 6 |	love	|great	|gift	|beauti	|bought	|thank	|husband	|perfect	|wife	|christma	|son	|happi	|look	|awesom	|friend|
 
